@@ -23,11 +23,11 @@ Ce travail a été réalisé dans le but de comprendre en profondeur les mécani
 
 1.  Clonez ce dépôt :
     ```bash
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/NOM_DU_REPO.git
+    git clone https://github.com/Linwe-e/Neural-Network-MNIST-Numpy-.git
     ```
 2.  Naviguez dans le répertoire du projet :
     ```bash
-    cd NOM_DU_REPO
+    cd Neural-Network-MNIST-Numpy-
     ```
 3.  Installez les dépendances :
     ```bash
