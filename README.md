@@ -79,6 +79,14 @@ Plusieurs configurations d'hyperparamètres ont été testées pour optimiser la
 
 La meilleure configuration obtenue atteint **91.10%** de précision sur l'ensemble de validation.
 
+## 📚 Ressources et Références
+
+Ce projet s'inspire et utilise les ressources suivantes :
+
+- **📄 Article Medium** : [Building a Simple Neural Network from Scratch for MNIST Digit Recognition](https://medium.com/@ombaval/building-a-simple-neural-network-from-scratch-for-mnist-digit-recognition-without-using-7005a7733418)
+- **🗂️ Dataset MNIST** : [MNIST Original Dataset sur Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+- **📓 Notebook de lecture MNIST** : [Read MNIST Dataset Notebook](https://www.kaggle.com/code/hojjatk/read-mnist-dataset/notebook)
+
 ---
 
 Ce projet est une excellente base pour quiconque souhaite apprendre les fondements des réseaux de neurones de manière pratique.
@@ -167,6 +175,14 @@ Several hyperparameter configurations have been tested to optimize model perform
 | **28 neurons**   | **0.05**      | **2000**   | **~91.1%**           |
 
 The best configuration achieved **91.10%** accuracy on the validation set.
+
+## 📚 Resources and References
+
+This project is inspired by and uses the following resources:
+
+- **📄 Medium Article**: [Building a Simple Neural Network from Scratch for MNIST Digit Recognition](https://medium.com/@ombaval/building-a-simple-neural-network-from-scratch-for-mnist-digit-recognition-without-using-7005a7733418)
+- **🗂️ MNIST Dataset**: [MNIST Original Dataset on Kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
+- **📓 MNIST Reading Notebook**: [Read MNIST Dataset Notebook](https://www.kaggle.com/code/hojjatk/read-mnist-dataset/notebook)
 
 ---
 
