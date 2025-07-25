@@ -1,3 +1,4 @@
+<a name="version-francaise"></a>
 # Réseau de Neurones pour la Reconnaissance de Chiffres MNIST
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -84,6 +85,7 @@ Ce projet est une excellente base pour quiconque souhaite apprendre les fondemen
 
 ---
 
+<a name="english-version"></a>
 # 🇺🇸 English Version
 
 # Neural Network for MNIST Digit Recognition
@@ -94,7 +96,7 @@ Ce projet est une excellente base pour quiconque souhaite apprendre les fondemen
 ![Accuracy](https://img.shields.io/badge/Accuracy-91.1%25-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-> 🇺🇸 **English version** | 🇫🇷 **[Version française ci-dessus](#réseau-de-neurones-pour-la-reconnaissance-de-chiffres-mnist)** (see above)
+> 🇺🇸 **English version** | 🇫🇷 **[Version française ci-dessus](#version-francaise)** (see above)
 
 This project presents the implementation of a simple neural network from scratch using only the **NumPy** library. The goal is to recognize handwritten digits from the famous MNIST dataset.
 
